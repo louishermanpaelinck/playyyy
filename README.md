@@ -8,6 +8,8 @@ Play 100+ popular games **directly in your browser**, with **no ads, lightning-f
 
 <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="20" alt="Party Parrot"> *No downloads, no emulators, just pure gaming fun!* <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="20" alt="Party Parrot">
 
+try it on [here!](https://t.ly/lTF-_)
+
 [![GitHub Stars](https://img.shields.io/github/stars/louishermanpaelinck/playyyy)](https://github.com/louishermanpaelinck/playyyy/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/louishermanpaelinck/playyyy)](https://github.com/louishermanpaelinck/playyyy/issues)
 [![License](https://img.shields.io/github/license/louishermanpaelinck/playyyy)](#license)
